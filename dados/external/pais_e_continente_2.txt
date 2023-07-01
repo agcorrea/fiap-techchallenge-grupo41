@@ -1,0 +1,292 @@
+País|Continente|Código do país
+Afeganistão|Ásia|AFG
+África do Sul|África|ZAF
+Albânia|Europa|ALB
+Alemanha|Europa|DEU
+Andorra|Europa|AND
+Angola|África|AGO
+Anguilla|Américas|AIA
+Antártida|Antártida|ATA
+Antígua e Barbuda|Américas|ATG
+Arábia Saudita|Ásia|SAU
+Argélia|África|DZA
+Argentina|Américas|ARG
+Armênia|Ásia|ARM
+Aruba|Américas|ABW
+Austrália|Oceania|AUS
+Áustria|Europa|AUT
+Azerbaijão|Ásia|AZE
+Bahamas|Américas|BHS
+Bahrein|Ásia|BHR
+Bangladesh|Ásia|BGD
+Barbados|Américas|BRB
+Belarus|Europa|BLR
+Bélgica|Europa|BEL
+Belize|Américas|BLZ
+Benin|África|BEN
+Bermudas|Américas|BMU
+Bolívia|Américas|BOL
+Bósnia e Herzegovina|Europa|BIH
+Botsuana|África|BWA
+Brasil|Américas|BRA
+Brunei|Ásia|BRN
+Bulgária|Europa|BGR
+Burkina Faso|África|BFA
+Burundi|África|BDI
+Butão|Ásia|BTN
+Cabo Verde|África|CPV
+Camboja|Ásia|KHM
+Camarões|África|CMR
+Canadá|Américas|CAN
+Catar|Ásia|QAT
+Cazaquistão|Ásia|KAZ
+Chade|África|TCD
+Chile|Américas|CHL
+China|Ásia|CHN
+Chipre|Europa|CYP
+Colômbia|Américas|COL
+Comores|África|COM
+Congo|África|COG
+Coreia do Norte|Ásia|PRK
+Coreia do Sul|Ásia|KOR
+Costa do Marfim|África|CIV
+Costa Rica|Américas|CRI
+Croácia|Europa|HRV
+Cuba|Américas|CUB
+Curaçao|Américas|CUW
+Dinamarca|Europa|DNK
+Djibuti|África|DJI
+Dominica|Américas|DMA
+Egito|África|EGY
+El Salvador|Américas|SLV
+Emirados Árabes Unidos|Ásia|ARE
+Equador|Américas|ECU
+Eritreia|África|ERI
+Eslováquia|Europa|SVK
+Eslovênia|Europa|SVN
+Espanha|Europa|ESP
+Estados Unidos|Américas|USA
+Estônia|Europa|EST
+Eswatini|África|SWZ
+Etiópia|África|ETH
+Fiji|Oceania|FJI
+Filipinas|Ásia|PHL
+Finlândia|Europa|FIN
+França|Europa|FRA
+Gabão|África|GAB
+Gâmbia|África|GMB
+Gana|África|GHA
+Geórgia|Ásia|GEO
+Geórgia do Sul e Ilhas Sandwich do Sul|Américas|SGS
+Gibraltar|Europa|GIB
+Granada|Américas|GRD
+Grécia|Europa|GRC
+Groenlândia|Américas|GRL
+Guadalupe|Américas|GLP
+Guam|Oceania|GUM
+Guatemala|Américas|GTM
+Guernsey|Europa|GGY
+Guiana|Américas|GUY
+Guiana Francesa|Américas|GUF
+Guiné|África|GIN
+Guiné Equatorial|África|GNQ
+Guiné-Bissau|África|GNB
+Haiti|Américas|HTI
+Holanda|Europa|NLD
+Honduras|Américas|HND
+Hong Kong|Ásia|HKG
+Hungria|Europa|HUN
+Iêmen|Ásia|YEM
+Ilha Bouvet|Antártida|BVT
+Ilha Christmas|Oceania|CXR
+Ilha de Ascensão|África|ASC
+Ilha de Clipperton|Américas|CPT
+Ilha de Man|Europa|IMN
+Ilha Norfolk|Oceania|NFK
+Ilhas Aland|Europa|ALA
+Ilhas Cayman|Américas|CYM
+Ilhas Cocos (Keeling)|Oceania|CCK
+Ilhas Cook|Oceania|COK
+Ilhas Faroé|Europa|FRO
+Ilhas Falkland (Malvinas)|Américas|FLK
+Ilhas Heard e McDonald|Oceania|HMD
+Ilhas Marianas do Norte|Oceania|MNP
+Ilhas Marshall|Oceania|MHL
+Ilhas Menores Distantes dos Estados Unidos|Oceania|UMI
+Ilhas Salomão|Oceania|SLB
+Ilhas Turcas e Caicos|Américas|TCA
+Ilhas Virgens Britânicas|Américas|VGB
+Ilhas Virgens dos Estados Unidos|Américas|VIR
+Índia|Ásia|IND
+Indonésia|Ásia|IDN
+Irã|Ásia|IRN
+Iraque|Ásia|IRQ
+Irlanda|Europa|IRL
+Islândia|Europa|ISL
+Israel|Ásia|ISR
+Itália|Europa|ITA
+Jamaica|Américas|JAM
+Japão|Ásia|JPN
+Jersey|Europa|JEY
+Jordânia|Ásia|JOR
+Kosovo|Europa|XKX
+Kuwait|Ásia|KWT
+Laos|Ásia|LAO
+Lesoto|África|LSO
+Letônia|Europa|LVA
+Líbano|Ásia|LBN
+Libéria|África|LBR
+Líbia|África|LBY
+Liechtenstein|Europa|LIE
+Lituânia|Europa|LTU
+Luxemburgo|Europa|LUX
+Macau|Ásia|MAC
+Macedônia do Norte|Europa|MKD
+Madagascar|África|MDG
+Malásia|Ásia|MYS
+Malawi|África|MWI
+Maldivas|Ásia|MDV
+Mali|África|MLI
+Malta|Europa|MLT
+Marrocos|África|MAR
+Martinica|Américas|MTQ
+Maurício|África|MUS
+Mauritânia|África|MRT
+Mayotte|África|MYT
+México|Américas|MEX
+Micronésia|Oceania|FSM
+Moçambique|África|MOZ
+Moldávia|Europa|MDA
+Mônaco|Europa|MCO
+Mongólia|Ásia|MNG
+Montenegro|Europa|MNE
+Montserrat|Américas|MSR
+Myanmar|Ásia|MMR
+Namíbia|África|NAM
+Nauru|Oceania|NRU
+Nepal|Ásia|NPL
+Nicarágua|Américas|NIC
+Níger|África|NER
+Nigéria|África|NGA
+Niue|Oceania|NIU
+Noruega|Europa|NOR
+Nova Caledônia|Oceania|NCL
+Nova Zelândia|Oceania|NZL
+Omã|Ásia|OMN
+Palau|Oceania|PLW
+Palestina|Ásia|PSE
+Panamá|Américas|PAN
+Papua-Nova Guiné|Oceania|PNG
+Paquistão|Ásia|PAK
+Paraguai|Américas|PRY
+Peru|Américas|PER
+Polinésia Francesa|Oceania|PYF
+Polônia|Europa|POL
+Porto Rico|Américas|PRI
+Portugal|Europa|PRT
+Quênia|África|KEN
+Quirguistão|Ásia|KGZ
+Reino Unido|Europa|GBR
+República Centro-Africana|África|CAF
+República Democrática do Congo|África|COD
+República Dominicana|Américas|DOM
+República Tcheca|Europa|CZE
+Reunião|África|REU
+Romênia|Europa|ROU
+Ruanda|África|RWA
+Rússia|Europa|RUS
+Saara Ocidental|África|ESH
+Saint Martin|Américas|MAF
+Saint-Barthélemy|Américas|BLM
+Saint Kitts e Nevis|Américas|KNA
+Saint Pierre e Miquelon|Américas|SPM
+Saint Vincente e Granadinas|Américas|VCT
+Samoa|Oceania|WSM
+Samoa Americana|Oceania|ASM
+Santa Helena|África|SHN
+Santa Lúcia|Américas|LCA
+São Cristóvão e Nevis|Américas|KNA
+São Marino|Europa|SMR
+São Tomé e Príncipe|África|STP
+São Vicente e Granadinas|Américas|VCT
+Seicheles|África|SYC
+Senegal|África|SEN
+Serra Leoa|África|SLE
+Sérvia|Europa|SRB
+Singapura|Ásia|SGP
+Síria|Ásia|SYR
+Somália|África|SOM
+Sri Lanka|Ásia|LKA
+Sudão|África|SDN
+Sudão do Sul|África|SSD
+Suécia|Europa|SWE
+Suíça|Europa|CHE
+Suriname|Américas|SUR
+Tadjiquistão|Ásia|TJK
+Tailândia|Ásia|THA
+Taiwan|Ásia|TWN
+Tanzânia|África|TZA
+Terras Austrais e Antárticas Francesas|Antártida|ATF
+Território Britânico do Oceano Índico|África|IOT
+Timor-Leste|Ásia|TLS
+Togo|África|TGO
+Tokelau|Oceania|TKL
+Tonga|Oceania|TON
+Trinidad e Tobago|Américas|TTO
+Tunísia|África|TUN
+Turcomenistão|Ásia|TKM
+Turquia|Ásia|TUR
+Tuvalu|Oceania|TUV
+Ucrânia|Europa|UKR
+Uganda|África|UGA
+Uruguai|Américas|URY
+Uzbequistão|Ásia|UZB
+Vanuatu|Oceania|VUT
+Vaticano|Europa|VAT
+Venezuela|Américas|VEN
+Vietnã|Ásia|VNM
+Wallis e Futuna|Oceania|WLF
+Zâmbia|África|ZMB
+Zimbábue|África|ZWE
+Alemanha, República Democrática|Europa|DDR
+Antilhas Holandesas|Américas|ANT
+Barein|Ásia|BHR
+Belice|Américas|BLZ
+Bósnia-Herzegovina|Europa|BIH
+Cayman, Ilhas|Américas|CYM
+Cingapura|Ásia|SGP
+Coreia, Republica Sul|Ásia|KOR
+Eslovaca, Republica|Europa|SVK
+Guine Bissau|África|GNB
+Ilhas Virgens|Américas|VIR
+Marshall, Ilhas|Oceania|MHL
+Países Baixos|Europa|NLD
+Suazilândia|África|SWZ
+Taiwan (FORMOSA)|Ásia|TWN
+Tcheca, República|Europa|CZE
+Coreia do Sul, Republica da|Ásia|KOR
+Filândia|Europa|FIN
+Paises Baixos (Holanda)|Europa|NLD
+Taiwan (Formosa)|Ásia|TWN
+Trinidade e Tobago|Américas|TTO
+Outros(1)|N/A|N/A
+Bosnia|Europa|BIH
+Burquina Faso|África|BFA
+Camores|África|COM
+Coveite|Ásia|KWT
+Falkland (Ilhas Malvinas)|Américas|FLK
+Faroé, Ilhas|Europa|FRO
+Jérsei|Europa|JEY
+Russia, Federação da|Europa|RUS
+Trindade e Tobago|Américas|TTO
+Turcas e Caicos, ilhas|Américas|TCA
+Provisão de Navios e Aeronaves|N/A|N/A
+Alemanha, República Democrática da|Europa|DDR
+Birmânia|Ásia|MMR
+Dominica, Ilha de|Américas|DMA
+Falkland (Malvinas)|Américas|FLK
+Guiné Bissau|África|GNB
+Iugoslâvia|Europa|YUG
+República Centro Africana|África|CAF
+República Federativa da Rússia|Europa|RUS
+Filânldia|Europa|FIN

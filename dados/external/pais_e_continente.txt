@@ -1,0 +1,252 @@
+País|Continente
+Afeganistão|Ásia
+África do Sul|África
+Albânia|Europa
+Alemanha|Europa
+Andorra|Europa
+Angola|África
+Antígua e Barbuda|Américas
+Arábia Saudita|Ásia
+Argélia|África
+Argentina|Américas
+Armênia|Europa
+Austrália|Oceania
+Áustria|Europa
+Azerbaijão|Europa
+Bahamas|Américas
+Bahrein|Ásia
+Bangladesh|Ásia
+Barbados|Américas
+Belarus|Europa
+Bélgica|Europa
+Belize|Américas
+Benin|África
+Bolívia|Américas
+Bósnia e Herzegovina|Europa
+Botsuana|África
+Brasil|Américas
+Brunei|Ásia
+Bulgária|Europa
+Burkina Faso|África
+Burundi|África
+Butão|Ásia
+Cabo Verde|África
+Camboja|Ásia
+Camarões|África
+Canadá|Américas
+Catar|Ásia
+Cazaquistão|Ásia
+Chade|África
+Chile|Américas
+China|Ásia
+Chipre|Europa
+Colômbia|Américas
+Comores|África
+Congo|África
+Coreia do Norte|Ásia
+Coreia do Sul|Ásia
+Costa do Marfim|África
+Costa Rica|Américas
+Croácia|Europa
+Cuba|Américas
+Dinamarca|Europa
+Djibouti|África
+Dominica|Américas
+Egito|África
+El Salvador|Américas
+Emirados Árabes Unidos|Ásia
+Equador|Américas
+Eritreia|África
+Eslováquia|Europa
+Eslovênia|Europa
+Espanha|Europa
+Estados Unidos|Américas
+Estônia|Europa
+Eswatini|África
+Etiópia|África
+Fiji|Oceania
+Filipinas|Ásia
+Finlândia|Europa
+França|Europa
+Gabão|África
+Gâmbia|África
+Gana|África
+Geórgia|Europa
+Granada|Américas
+Grécia|Europa
+Guatemala|Américas
+Guiana|Américas
+Guiné|África
+Guiné-Bissau|África
+Guiné Equatorial|África
+Haiti|Américas
+Holanda|Europa
+Honduras|Américas
+Hungria|Europa
+Iêmen|Ásia
+Ilhas Marshall|Oceania
+Ilhas Maurício|África
+Índia|Ásia
+Indonésia|Ásia
+Irã|Ásia
+Iraque|Ásia
+Irlanda|Europa
+Islândia|Europa
+Israel|Ásia
+Itália|Europa
+Jamaica|Américas
+Japão|Ásia
+Jordânia|Ásia
+Kiribati|Oceania
+Kosovo|Europa
+Kuwait|Ásia
+Laos|Ásia
+Lesoto|África
+Letônia|Europa
+Líbano|Ásia
+Libéria|África
+Líbia|África
+Liechtenstein|Europa
+Lituânia|Europa
+Luxemburgo|Europa
+Macedônia do Norte|Europa
+Madagascar|África
+Malásia|Ásia
+Malawi|África
+Maldivas|Ásia
+Mali|África
+Malta|Europa
+Marrocos|África
+Maurício|África
+Mauritânia|África
+México|Américas
+Micronésia|Oceania
+Moçambique|África
+Moldávia|Europa
+Mônaco|Europa
+Mongólia|Ásia
+Montenegro|Europa
+Myanmar|Ásia
+Namíbia|África
+Nauru|Oceania
+Nepal|Ásia
+Nicarágua|Américas
+Níger|África
+Nigéria|África
+Noruega|Europa
+Nova Zelândia|Oceania
+Omã|Ásia
+Palau|Oceania
+Panamá|Américas
+Papua Nova Guiné|Oceania
+Paquistão|Ásia
+Paraguai|Américas
+Peru|Américas
+Polônia|Europa
+Portugal|Europa
+Quênia|África
+Quirguistão|Ásia
+Reino Unido|Europa
+República Centro-Africana|África
+República Democrática do Congo|África
+República Dominicana|Américas
+República Tcheca|Europa
+Romênia|Europa
+Ruanda|África
+Rússia|Europa
+Samoa|Oceania
+San Marino|Europa
+Santa Lúcia|Américas
+São Cristóvão e Nevis|Américas
+São Tomé e Príncipe|África
+São Vicente e Granadinas|Américas
+Seicheles|África
+Senegal|África
+Sérvia|Europa
+Serra Leoa|África
+Singapura|Ásia
+Síria|Ásia
+Somália|África
+Sri Lanka|Ásia
+Sudão|África
+Sudão do Sul|África
+Suécia|Europa
+Suíça|Europa
+Suriname|Américas
+Tailândia|Ásia
+Taiwan|Ásia
+Tajiquistão|Ásia
+Tanzânia|África
+Timor-Leste|Ásia
+Togo|África
+Tonga|Oceania
+Trinidad e Tobago|Américas
+Tunísia|África
+Turcomenistão|Ásia
+Turquia|Europa
+Tuvalu|Oceania
+Ucrânia|Europa
+Uganda|África
+Uruguai|Américas
+Uzbequistão|Ásia
+Vanuatu|Oceania
+Vaticano|Europa
+Venezuela|Américas
+Vietnã|Ásia
+Zâmbia|África
+Zimbábue|África
+Alemanha, República Democrática|Europa
+Anguilla|Américas
+Antilhas Holandesas|Américas
+Aruba|Américas
+Barein|Ásia
+Belice|Américas
+Bósnia-Herzegovina|Europa
+Cayman, Ilhas|Américas
+Cingapura|Ásia
+Coreia, Republica Sul|Ásia
+Curaçao|Américas
+Eslovaca, Republica|Europa
+Gibraltar|Europa
+Guiana Francesa|Américas
+Guine Bissau|África
+Hong Kong|Ásia
+Ilha de Man|Europa
+Ilhas Virgens|Américas
+Marshall, Ilhas|Oceania
+Nova Caledônia|Oceania
+Países Baixos|Europa
+Porto Rico|Américas
+Suazilândia|África
+Taiwan (FORMOSA)|Ásia
+Tcheca, República|Europa
+Coreia do Sul, Republica da|Ásia
+Filândia|Europa
+Paises Baixos (Holanda)|Europa
+Taiwan (Formosa)|Ásia
+Trinidade e Tobago|Américas
+Outros(1)|
+Bermudas|Américas
+Bosnia|Europa
+Burquina Faso|África
+Camores|África
+Coveite|Ásia
+Djibuti|África
+Falkland (Ilhas Malvinas)|Américas
+Faroé, Ilhas|Europa
+Guadalupe|Américas
+Jérsei|Europa
+Martinica|Américas
+Russia, Federação da|Europa
+Trindade e Tobago|Américas
+Turcas e Caicos, ilhas|Américas
+Provisão de Navios e Aeronaves|
+Alemanha, República Democrática da|Europa
+Birmânia|Ásia
+Dominica, Ilha de|Américas
+Falkland (Malvinas)|Américas
+Guiné Bissau|África
+Iugoslávia|Europa
+República Centro Africana|África
+República Federativa da Rússia|Europa
+Filânldia|Europa
