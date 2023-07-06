@@ -19,5 +19,5 @@ Todas as dependências se encontram no arquivo *.txt* na pasta:
 ### Integrantes - Grupo 41:
 >- [André Guilherme Corrêa](https://www.linkedin.com/in/agcorrea/)
 >- [Letícia Maia de Oliveira](https://www.linkedin.com/in/lemaia/)
->- [Nathalia Souza Vaz]()
+>- [Nathalia Souza Vaz](https://www.linkedin.com/in/sousanathalias/)
 >- [Renan Felipe Silva](https://www.linkedin.com/in/renan-silva-16960313a)
