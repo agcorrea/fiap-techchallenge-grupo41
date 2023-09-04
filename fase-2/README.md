@@ -7,6 +7,10 @@
 - [Nathalia Souza Vaz](https://www.linkedin.com/in/sousanathalias/)
 - [Renan Felipe Silva](https://www.linkedin.com/in/renan-silva-16960313a)
 
+## Link do Jupyter Notebook
+
+- [Predição Ibovespa](https://github.com/agcorrea/fiap-techchallenge-grupo41/blob/main/fase-2/predicao-ibovespa.ipynb)
+
 ## O Problema
 
 Imagine que você foi escalado para um time de investimentos e precisará realizar um modelo preditivo com dados da IBOVESPA (Bolsa de valores) para criar uma série temporal e prever diariamente o fechamento da base.
