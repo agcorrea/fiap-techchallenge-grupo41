@@ -46,7 +46,7 @@ orjson==3.9.5
 packaging==23.1
 pandas==2.1.0
 patsy==0.5.3
-Pillow==10.0.0
+Pillow==10.0.1
 plotly==5.16.1
 plotly-resampler==0.9.1
 prophet==1.1.4
