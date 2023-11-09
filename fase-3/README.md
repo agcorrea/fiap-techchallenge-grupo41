@@ -3,13 +3,12 @@
 ## Grupo 41
 
 - [André Guilherme Corrêa](https://www.linkedin.com/in/agcorrea/)
-- [Letícia Maia de Oliveira](https://www.linkedin.com/in/lemaia/)
 - [Nathalia Souza Vaz](https://www.linkedin.com/in/sousanathalias/)
 - [Renan Felipe Silva](https://www.linkedin.com/in/renan-silva-16960313a)
 
 ## Link do Jupyter Notebook
 
-- `TO DO`
+- Para acessar a última versão desse colab acesse: https://github.com/agcorrea/fiap-techchallenge-grupo41/tree/main/fase-3
 
 ## O Problema
 
