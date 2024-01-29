@@ -22,7 +22,7 @@ datasetsforecast==0.0.8
 DateTime==5.2
 ephem==4.1.4
 Flask==2.2.5
-fonttools==4.42.1
+fonttools==4.43.0
 frozenlist==1.4.0
 fs==2.4.16
 fsspec==2023.9.0
