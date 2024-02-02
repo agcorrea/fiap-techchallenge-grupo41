@@ -14,7 +14,7 @@ colorama==0.4.6
 contourpy==1.1.0
 convertdate==2.4.0
 cycler==0.11.0
-dash==2.13.0
+dash==2.15.0
 dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-table==5.0.0
